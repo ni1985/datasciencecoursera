@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Part of a course project for "The Data scientist's toolbox" course bu Coursera
+Part of a course project for "The Data scientist's toolbox" course by Coursera
